@@ -1,0 +1,2 @@
+# bomber
+input no telp
